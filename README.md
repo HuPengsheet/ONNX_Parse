@@ -26,9 +26,7 @@ ncnn 是一个为移动端和嵌入式设备优化的高性能神经网络前向
 - [ncnn源码分析07：ncnn激活函数类算子实现](https://github.com/HuPengsheet/use-ncnn/blob/main/notes/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%9007-ncnn%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0%E7%B1%BB%E7%AE%97%E5%AD%90%E5%AE%9E%E7%8E%B0.md)
 
 
-这个部分将深入探讨 ncnn 的源码结构和实现细节。通过分析源码，你将对 ncnn 的内部工作原理有更深入的理解。
-
-持续更新中！！！
+这个部分将深入探讨 ncnn 的源码结构和实现细节。通过分析源码，你将对 ncnn 的内部工作原理有更深入的理解。持续更新中！！！
 
 ## ncnn加速手段
 
